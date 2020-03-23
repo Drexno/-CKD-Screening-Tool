@@ -1,0 +1,2 @@
+# -CKD-Screening-Tool
+Built a model using logistic regression to predict if an individual is at risk of having CKD. The size of the data frame was significantly reduced from 33 to 8 variables using correlation and LASSO regression. An AUC score of 0.84 was achieved. Based on this statistical model, a simple data driven easy-to-use screening tool was created with only 5 questions using 6 of the variables; risk scores were calculated for each of the 5 questions.
