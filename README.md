@@ -33,7 +33,9 @@ The threshold value for the logistic regression output was 0.2. This value was c
 LIMITATIONS
 
 The white race group was overrepresented in this data set, while the Hispanic race group were underrepresented.
+
 The model does its best to accurately predict individuals at higher for CKD; however, it does not account for outliers.
+
 The sample presented in this data set was not a random sample, the findings cannot be representative for the whole population. A random sample is necessary for an unbiased representation of the population.
 
 
