@@ -38,6 +38,8 @@ The model does its best to accurately predict individuals at higher for CKD; how
 
 The sample presented in this data set was not a random sample, the findings cannot be representative for the whole population. A random sample is necessary for an unbiased representation of the population.
 
+SCREENING TOOL LINK: https://docs.google.com/forms/d/e/1FAIpQLScNwSOVMqPx8R4HNUP6gtIZCBsFy3AFYKf-LsXlhSSdNyLBow/viewform?vc=0&c=0&w=1
+
 
  
 
